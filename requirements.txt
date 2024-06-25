@@ -1,0 +1,7 @@
+xarray
+torchcubicspline
+numpy
+pandas
+matplotlib
+torch
+torchdiffeq
